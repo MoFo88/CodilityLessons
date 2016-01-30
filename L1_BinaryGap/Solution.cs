@@ -1,4 +1,4 @@
-namespace BinaryGap
+namespace L1_BinaryGap
 {
     class Solution
     {
