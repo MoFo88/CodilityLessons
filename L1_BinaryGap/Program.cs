@@ -6,15 +6,15 @@ namespace L1_BinaryGap
     {
         static void Main(string[] args)
         {            
-            test(9);
-            test(529);
-            test(20);
-            test(15);
-            test(0);
-            test(-1);
+            Test(9);
+            Test(529);
+            Test(20);
+            Test(15);
+            Test(0);
+            Test(-1);
         }
 
-        private static void test(int n)
+        private static void Test(int n)
         {
             var s = new Solution();
             Console.WriteLine($"n: {n} Binary : {Convert.ToString(n, 2)}");
