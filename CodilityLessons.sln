@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L2_OddOccurrencesInArray", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L3_TapeEquilibrium", "L3_TapeEquilibrium\L3_TapeEquilibrium.csproj", "{5AD78C8A-9BB7-4C43-989D-FF2F129C4E5E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L3_FrogJmp", "L3_FrogJmp\L3_FrogJmp.csproj", "{6D9B2866-0A00-4376-9348-01BA288E05AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{5AD78C8A-9BB7-4C43-989D-FF2F129C4E5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5AD78C8A-9BB7-4C43-989D-FF2F129C4E5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5AD78C8A-9BB7-4C43-989D-FF2F129C4E5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D9B2866-0A00-4376-9348-01BA288E05AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D9B2866-0A00-4376-9348-01BA288E05AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D9B2866-0A00-4376-9348-01BA288E05AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D9B2866-0A00-4376-9348-01BA288E05AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
